@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Meu maior sonho é impactar positivamente a vida das pessoas por meio da tecnologia.
 - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://www.impacta.edu.br/">Impacta</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas Pleno** na <a href="https://www.mobiauto.com.br/">Mobiauto</a>
 - 🌱 &nbsp; Realizando uma especialização em Desenvolvimento, Arquitetura e DevOps: <a href="https://imersao.fullcycle.com.br/page/lancamento/">**Full Cycle 3.0**</a>
