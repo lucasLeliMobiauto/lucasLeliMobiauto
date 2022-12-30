@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/lucasLeliMobiauto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasLeliMobiauto&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasLeliMobiauto&theme=dracula&show_icons=true&count_private=true" />
 </a>
 
 <br/>
